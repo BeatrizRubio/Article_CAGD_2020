@@ -3,10 +3,9 @@ In this repository, two application of Matlab are provided.
 A general class of important rational bases can be obtained as a particular example of weighted  $\varphi$-transformed systems.  For these bases, evaluation and subdivision algorithms are presented. 
 
 
-1. In [Experiments_table](https://github.com/Cimagroup/Curve-approximation-based-on-Neural-Networks-forgeneral-classes-of-totally-positive-rational-bases/tree/main/Experiments_table) the code for Table 1 is provided.
-2. The architecture and training implementation is described in the [jupyter notebook](https://github.com/Cimagroup/Curve-approximation-based-on-Neural-Networks-forgeneral-classes-of-totally-positive-rational-bases/blob/main/Neural%20network%20implementation.ipynb). (Can be seen in markdown version [here](https://github.com/Cimagroup/Curve-approximation-based-on-Neural-Networks-forgeneral-classes-of-totally-positive-rational-bases/blob/main/Neural%20network%20implementation/Neural%20network%20implementation.md)).
+1. In [App_evaluation_subdivision_general](https://github.com/BeatriazRubio/Article_CAGD_2020/Article1_CAGD2020/App_evaluation_subdivision_general/) the application which draw an algorithm of evaluation and subidvision of a general class of rational bases is provided.
+2. In [App_evaluation_subdivision](https://github.com/BeatriazRubio/Article_CAGD_2020/Article1_CAGD2020/App_evaluation_subdivision_general/) the application which draw an algorithm of evaluation and subidvision of a particular class of rational bases is provided.
 
-The implementation uses Tensorflow 2.0.
 
 ![paper_banner](paper_banner.PNG)
 
