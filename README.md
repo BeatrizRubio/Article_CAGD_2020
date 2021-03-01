@@ -8,7 +8,7 @@ A general class of important rational bases can be obtained as a particular exam
 2. In [App_evaluation_subdivision](https://github.com/BeatriazRubio/Article_CAGD_2020/App_evaluation_subdivision) the application which draw an algorithm of evaluation and subidvision of a particular class of rational bases is provided.
 
 
-![paper_banner](paper_banner.PNG)
+![paper_banner](paper_banner.png)
 
 
 The implementation uses Matlab 2020b.
