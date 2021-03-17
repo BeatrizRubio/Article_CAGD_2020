@@ -1,7 +1,7 @@
 # Evaluation and subdivision algorithms for general classes of rational bases
 
 In this repository, two application of Matlab are provided. 
-A general class of important rational bases can be obtained as a particular example of weighted  $\varphi$-transformed systems.  For these bases, evaluation and subdivision algorithms are presented. 
+A general class of important rational bases can be obtained as a particular example of weighted  φ-transformed systems.  For these bases, evaluation and subdivision algorithms are presented. 
 
 
 1. In [App_evaluation_subdivision_general](https://github.com/BeatrizRubio/Article_CAGD_2020/tree/main/App_evaluation_subdivision) the application which draw an algorithm of evaluation and subidvision of a general class of rational bases is provided.
